@@ -20,7 +20,7 @@ export default function App() {
     <BrowserRouter>
       <Routes>
        
-        <Route path="/" element={<Layout />}>
+        <Route path="/" element={<Layout />}/>
           <Route index element={<Home />} />
           <Route path="blogs" element={<Blogs />} />
           <Route path="register" element={<Register />} />
@@ -34,7 +34,7 @@ export default function App() {
           <Route path="reports" element={<Reports />} />
           <Route path="staff" element={<Staff />} />
 
-        </Route>
+        
       </Routes>
     </BrowserRouter>
   );
