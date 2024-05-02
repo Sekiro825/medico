@@ -9,7 +9,6 @@ const Hospitalsignin = () => {
         <li className="nav-item">
         <h5>Namaste!!</h5>
           <p>Welcome to Medico - Your Comprehensive Healthcare Companion</p>
-
            <p>Empowering you with cutting-edge technology, Medico is your trusted partner in wellness and medical management. Seamlessly integrating advanced features, our app is designed to enhance your healthcare experience, providing a user-friendly platform that puts your well-being at the forefront.</p>
         </li>
         <li className="nav-item">
